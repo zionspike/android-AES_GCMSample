@@ -1,3 +1,3 @@
 # android-AES_GCMSample
 
-!(ScreenShot)[Screen Shot.png]
+![ScreenShot](Screen Shot.png)
